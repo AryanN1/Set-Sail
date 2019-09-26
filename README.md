@@ -25,8 +25,8 @@ Note:  Generators are usually run using the globally-installed `sails` CLI (comm
 -->
 
 # Full Sail Ahead
-                                       <|                                                   
-                                        |\                                                  
+                                       <|                       .-.                            
+               .-.                      |\                                                  
                                        /|.\                                                 
                                       / || \                                                 
                                     ,'  |'  \                                               
